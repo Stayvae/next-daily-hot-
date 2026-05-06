@@ -1,4 +1,4 @@
-###  本地开发
+###  💡本地开发
 进入项目目录
 cd next-daily-hot
 
@@ -7,7 +7,7 @@ pnpm install
 
 启动开发服务器
 pnpm dev
-
+###  💡上线开发
 构建生产版本
 pnpm build
 
