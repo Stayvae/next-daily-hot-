@@ -1,23 +1,23 @@
 ###  本地开发
- 1. 进入项目目录
+进入项目目录
 cd next-daily-hot
 
- 2. 安装依赖
+安装依赖
 pnpm install
 
- 3. 启动开发服务器
+启动开发服务器
 pnpm dev
 
- 构建生产版本
+构建生产版本
 pnpm build
 
- 启动生产服务器
+启动生产服务器
 pnpm start
 
- 代码检查
+代码检查
 pnpm lint
 
- 更新版本
+更新版本
 pnpm release
 
 ### 💡 功能建议
